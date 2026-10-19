@@ -1,0 +1,13 @@
+{
+  "name": "chatschool-domain-redirect",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Redirect the legacy ChatSchool Render domain to the VPS website.",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
